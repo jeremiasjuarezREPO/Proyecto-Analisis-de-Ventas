@@ -1,7 +1,10 @@
 # Proyecto: Análisis de Ventas
-Autor: Jeremias Juarez
+Autor: Jeremias Juarez.
+
 Escenario elegido: Escenario B Análisis de Ventas de una Pequeña Empresa.
+
 Dataset Utilizado: Se genera un archivo .csv con un registro de ventas realizadas por una pequeña empresa que vende materiales de construccion.
+
 Este es un proyecto sencillo en Python para llevar el control de las ventas de materiales de construcción. 
 El sistema lee un archivo con los datos de las transacciones, suma todas las unidades vendidas y guarda el resultado final en un informe de texto.
 
